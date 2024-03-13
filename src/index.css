@@ -1,0 +1,13 @@
+.header-text{
+color: white;
+font-weight: 60;
+cursor:pointer;
+margin-top: 5px;
+padding:5px;
+font-size:17px;
+}
+
+li , ol{
+
+list-style-type: none;
+}
